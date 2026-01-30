@@ -1,6 +1,8 @@
 build/
 results/
 ann_benchmarks_data/
+efanna_graph/
+nsg/
 temp.graph
 unused.txt
 
