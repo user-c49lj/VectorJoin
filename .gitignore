@@ -1,41 +1,14 @@
-# Prerequisites
-*.d
+build/
+results/
+ann_benchmarks_data/
+temp.graph
+unused.txt
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+sift/
+gist/
+glove/
+fmnist/
+nytimes/
+coco/
+laion/
+imagenet/
